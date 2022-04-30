@@ -1,3 +1,10 @@
+
+# org.springframework.cloud.loadbalancer.config.LoadBalancerAutoConfiguration
+#   ???LoadBalancer?????getInstance() ?????????
+# org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration
+#   ???????????
+#
+
 # AutoConfiguration
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 org.springframework.cloud.loadbalancer.config.LoadBalancerAutoConfiguration
